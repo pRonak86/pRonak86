@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pRonak86
+- 👋 Hi, I’m Ronak Patel.
 - 👀 I’m interested in to collabrate with Spring Boot or Django based project.
 - 🌱 I’m currently learning react JS to understand scenario of full stack based on java & react.
 - 💞️ I’m looking to collaborate on Freelancing project or Corporate training.
