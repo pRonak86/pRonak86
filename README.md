@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://scholar.google.com/citations?user=27sbIakAAAAJ&hl=en&authuser=1">
-    <img src="https://camo.githubusercontent.com/c41dae28266f7335d0645e67f0c117e4fe10e2155465de0d7c3e3e5827a8f9d7/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363137323339332f313733363131352f64623631306336342d363335662d313165332d393936342d6232656262323937356632302e706e67" height=30 weidth = 30 alt="Youtube Badge"/>
+    <img src="https://camo.githubusercontent.com/c41dae28266f7335d0645e67f0c117e4fe10e2155465de0d7c3e3e5827a8f9d7/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363137323339332f313733363131352f64623631306336342d363335662d313165332d393936342d6232656262323937356632302e706e67" height=28 weidth = 28 alt="Youtube Badge"/>
   </a>
 </div>
 
